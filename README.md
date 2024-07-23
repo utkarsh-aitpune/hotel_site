@@ -37,3 +37,4 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 # hotel_booking_site
 # hotel_booking-site
 # hotel-booking-site
+# hotel_site
