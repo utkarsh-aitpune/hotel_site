@@ -22,7 +22,7 @@ export default async function Page() {
         <div className="space-y-8">
           <p>
             Where nature&apos;s beauty and comfortable living blend seamlessly.
-            Hidden away in the heart of the Italian Dolomites, this is your
+            Hidden away in the heart of the  himalayas, this is your
             paradise away from home. But it&apos;s not just about the luxury
             cabins. It&apos;s about the experience of reconnecting with nature
             and enjoying simple pleasures with family.
@@ -66,17 +66,17 @@ export default async function Page() {
 
         <div className="space-y-8">
           <p>
-            Since 1962, The Wild Oasis has been a cherished family-run retreat.
+            Since 1962, This has been a cherished family-run retreat.
             Started by our grandparents, this haven has been nurtured with love
             and care, passing down through our family as a testament to our
             dedication to creating a warm, welcoming environment.
           </p>
           <p>
-            Over the years, we&apos;ve maintained the essence of The Wild Oasis,
+            Over the years, we&apos;ve maintained the essence of This hotel,
             blending the timeless beauty of the mountains with the personal
             touch only a family business can offer. Here, you&apos;re not just a
             guest; you&apos;re part of our extended family. So join us at The
-            Wild Oasis soon, where tradition meets tranquility, and every visit
+            hotel  soon, where tradition meets tranquility, and every visit
             is like coming home.
           </p>
 

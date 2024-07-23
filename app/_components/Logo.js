@@ -11,10 +11,10 @@ function Logo() {
         height="60"
         quality={100}
         width="60"
-        alt="The Wild Oasis logo"
+        alt="The Hotel"
       />
       <span className="text-xl font-semibold text-primary-100">
-        The Wild Oasis
+        The Hotel 
       </span>
     </Link>
   );
